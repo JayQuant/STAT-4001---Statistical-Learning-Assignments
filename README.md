@@ -15,5 +15,5 @@ In this course, I had experience of designing and structuring algorithms used in
 For R notebooks, please refer to below links.
 
 - [K-medoid and K-means](https://htmlpreview.github.io/?https://github.com/JayQuant/STAT-4001---Statistical-Learning-Assignments/blob/main/K-medoid-and-K-means-experimentation.html)
-- [Bootstrapping, CV, and Lasso](https://htmlpreview.github.io/?https://github.com/JayQuant/STAT-4001---Statistical-Learning-Assignments/blob/main/Bootstrapping%2C-CV-and-Lasso.html)
+- [Bootstrapping and CV and Lasso](https://htmlpreview.github.io/?https://github.com/JayQuant/STAT-4001---Statistical-Learning-Assignments/blob/main/Bootstrapping%2C-CV-and-Lasso.html)
 - 
