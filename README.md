@@ -1,1 +1,1 @@
-# STAT-4001---Statistical-Learning-Assignments
+# Assignments for STAT-4001-Statistical-Learning
