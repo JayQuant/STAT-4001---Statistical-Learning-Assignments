@@ -1,4 +1,4 @@
-# Assignments for STAT-4001-Statistical-Learning
+# Assignments for STAT-4001-Statistical-Learning using R
 
 This repository is a collection of R notebooks files regarding STAT 4001: Statistical Learning and Data Mining course. This course was taken in the first term of 2023.
 
